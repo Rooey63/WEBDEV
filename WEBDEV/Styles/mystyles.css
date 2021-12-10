@@ -1,0 +1,43 @@
+
+
+
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+
+.Bigfont {
+    font-size: 3rem; font-weight:bolder
+}
+
+.top{
+    font-style: normal !important; font-weight:bold;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.Babyblue{
+    background-color:skyblue;
+}
+
+.newfont{
+    font-family: serif;
+}
+
+.doof{
+    font-weight:bold; font-size: 1.5rem;
+}
